@@ -4,7 +4,7 @@
 
 # Why PyNavigator?
 
-* PyNavigator don't needs the specific path for opening a file/folder.
+* PyNavigator don't need the specific path for opening a file/folder.
   
 #### Developing...
 
