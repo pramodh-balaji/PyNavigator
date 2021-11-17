@@ -1,3 +1,4 @@
-# PyNavigater
+# PyNavigator
 
 #### Developing...
+
