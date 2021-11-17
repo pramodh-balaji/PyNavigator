@@ -2,9 +2,9 @@
 
 # PyNavigator find a particular file.
 
-  import PyNavigator 
+    import PyNavigator 
   
-  PyNavigator.search_start('file name')
+    PyNavigator.search_start('file name')
   
 #### Developing...
 
