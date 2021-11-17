@@ -20,9 +20,6 @@ def search(file,control = os.getcwd()):
     
     return file_in_sys[file]
 
-
-
-
 def run(filename,path = os.getcwd()):
 
     try:
@@ -31,8 +28,6 @@ def run(filename,path = os.getcwd()):
     except:
         return None
     
-
-
 def search_start(filename):
 
     hotkey('ctrl','esc')
